@@ -17,4 +17,4 @@ When a new environment is created and loaded, artefacts from the previous scene 
 By using [Isaac Sim/Lab recommended GPUs](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/installation/requirements.html), this effect is rarely observed.
 
 Example run on a 3090:
-<video src="images/rendering_artefact.mp4" controls width="800"></video>
+<video src="https://github.com/user-attachments/assets/beb3ef86-9c57-454a-bc6c-48e75390fd12" controls width="800"></video>
