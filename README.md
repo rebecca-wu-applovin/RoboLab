@@ -149,7 +149,7 @@ uv run robolab-dashboard
 # open http://localhost:8080
 ```
 
-<video src="https://github.com/NVlabs/RoboLab/raw/main/docs/images/robolab_dashboard.mp4" autoplay controls muted loop playsinline width="800">
+<video src="https://github.com/user-attachments/assets/5992e61b-9043-4602-8402-04459da38421" autoplay controls muted loop playsinline width="800">
   Your viewer doesn't render inline video — see <a href="docs/images/robolab_dashboard.mp4">robolab_dashboard.mp4</a>.
 </video>
 
