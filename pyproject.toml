@@ -1,10 +1,13 @@
+# SPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
 [project]
 name = "robolab"
 version = "0.1.0"
 description = "A benchmark for simulation"
 readme = "README.md"
 requires-python = ">=3.11"
-license = {text = "CC-BY-NC-4.0"}
+license = {text = "Apache-2.0"}
 authors = [{name = "Xuning Yang"}]
 dependencies = [
     # Core
@@ -18,10 +21,11 @@ dependencies = [
     "json_numpy",
     "pyzmq",
     "msgpack",
+    "websockets",
     # Computer vision and image processing
     "opencv-python",
     "Pillow",
-    "imageio[ffmpeg]",
+    "imageio",
     # Scientific computing
     "scipy",
     "matplotlib",

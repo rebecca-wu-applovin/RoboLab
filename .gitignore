@@ -35,3 +35,10 @@ docs/doxygen/xml/*
 videos/
 *.code-workspace
 pyrightconfig.json
+
+# Claude Code — local/runtime only
+.claude/settings.local.json
+.claude/worktrees/
+.claude/scheduled_tasks.lock
+.claude/agents
+.claude/commands

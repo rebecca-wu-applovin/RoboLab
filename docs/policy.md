@@ -122,10 +122,4 @@ In short:
 
 ## Existing Clients as Reference
 
-| Client | Protocol | File |
-|--------|----------|------|
-| Pi0 / Pi0-fast / Pi05 / Paligemma / Paligemma-fast | WebSocket (OpenPI) | `policies/pi0_family/client.py` |
-| GR00T | ZMQ | `policies/gr00t/client.py` |
-| DreamZero | WebSocket (msgpack) | `policies/dreamzero/client.py` |
-
-See [Inference Clients](inference.md) for server setup instructions.
+See [Inference Clients](../policies/README.md) for server setup instructions.

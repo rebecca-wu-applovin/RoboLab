@@ -37,7 +37,7 @@ The core concepts are:
 - **[Running Environments](environment_run.md)** — Creating environments, evaluation scripts, CLI reference, and robustness testing
 - **[`num_envs` VRAM size guide](env_vram_size_guide.md)** — Per-task `num_envs` ceiling on L40, measured against pi05
 #### Policy
-- **[Inference Clients](inference.md)** — Built-in policy clients and server setup instructions (OpenPI, GR00T)
+- **[Inference Clients](../policies/README.md)** — Built-in policy clients and server setup instructions
 #### Output
 - **[Data Storage and Output](data.md)** — Output directory structure, HDF5 layout, and episode result fields
 - **[Analysis and Results Parsing](analysis.md)** — Scripts for summarizing, comparing, and auditing experiment results
