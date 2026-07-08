@@ -21,7 +21,14 @@ from typing import Any, Callable
 import isaaclab.sim.utils as sim_utils
 import numpy as np
 import torch
-from isaaclab.assets import Articulation, AssetBase, DeformableObject, RigidObject
+from isaaclab.assets import Articulation, AssetBase, RigidObject
+
+try:
+    # IsaacLab 2.2 / IsaacSim 5.0
+    from isaaclab.assets import DeformableObject
+except ImportError:
+    # IsaacLab 2.3 / IsaacSim 5.1 moved deformables into isaaclab_physx
+    from isaaclab_physx.assets import DeformableObject
 from isaaclab.envs import ManagerBasedRLEnv
 from isaaclab.sensors.frame_transformer.frame_transformer import FrameTransformer
 from isaaclab.utils.math import transform_points
@@ -479,7 +486,8 @@ class WorldState:
 
     def get_bbox(self, body: str, env_id: int | None = None) -> tuple:
         """
-        Get the Oriented Bounding Box (OBB) for a body in world coordinates.
+        Get the Oriented Bounding Box (OBB) for a body in env-local coordinates
+        (relative to each env's scene origin, via get_pose's default is_relative=True).
 
         Uses cached local geometry + vectorized transform_points for efficiency.
 
@@ -537,7 +545,8 @@ class WorldState:
 
     def get_centroid(self, body: str, env_id: int | None = None):
         """
-        Get the geometric center of a body's OBB in world coordinates.
+        Get the geometric center of a body's OBB in env-local coordinates
+        (relative to each env's scene origin, via get_pose's default is_relative=True).
 
         Args:
             env_id: None → Tensor(num_envs, 3), int → np.ndarray(3,)
