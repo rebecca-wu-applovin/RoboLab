@@ -125,19 +125,25 @@ class FrankaDuoSharpaWaveCfg:
             pos=(-0.35, 0, 0.45),
             rot=(1, 0, 0, 0),
             joint_pos={
-                # "Fold" ready pose (candidate g from examples/dump_duo_poses.py
-                # sweep) with a mirrored joint-1 split: with j1=0 the yawed-in
-                # shoulder mounts converge both wrists to the midline (hands
-                # overlapped). ±0.5 on joint 1 keeps each wrist over its own
-                # half of the table.
-                "left_panda_joint1": 0.5,
-                "right_panda_joint1": -0.5,
-                "(left|right)_panda_joint2": 0.3,
-                "(left|right)_panda_joint3": 0.0,
-                "(left|right)_panda_joint4": -2.2,
-                "(left|right)_panda_joint5": 0.0,
-                "(left|right)_panda_joint6": 2.0,
-                "(left|right)_panda_joint7": 0.0,
+                # IK-solved ready pose (scratchpad solve_ready_pose.py,
+                # verified output/duo_verification/ready_pose_ik_solved.png):
+                # wrists at (0.35, ±0.15, 0.25) env-frame, fingers pointing
+                # forward (+x), palms down, thumbs opposing — matches the
+                # GR00T sharpa training-mean orientation and FR3 Duo photos.
+                "left_panda_joint1": 1.145,
+                "left_panda_joint2": 1.048,
+                "left_panda_joint3": -0.464,
+                "left_panda_joint4": -1.516,
+                "left_panda_joint5": -2.540,
+                "left_panda_joint6": 2.045,
+                "left_panda_joint7": 0.108,
+                "right_panda_joint1": -1.144,
+                "right_panda_joint2": 1.047,
+                "right_panda_joint3": 0.462,
+                "right_panda_joint4": -1.517,
+                "right_panda_joint5": 2.541,
+                "right_panda_joint6": 2.044,
+                "right_panda_joint7": -0.107,
                 "(left|right)_(thumb|index|middle|ring|pinky)_.*": 0.0,
             },
         ),
