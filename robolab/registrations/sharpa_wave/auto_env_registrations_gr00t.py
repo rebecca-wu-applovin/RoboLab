@@ -41,14 +41,14 @@ class RobotHeadCameraCfg:
             vertical_aperture=3.2332,
         ),
         offset=TiledCameraCfg.OffsetCfg(
-            # Candidate f from the 6-pose ego sweep (2026-07-16,
-            # output/camera_calibration/ego_sweep_*.png): above the base,
-            # offset to the robot's left, aimed at table center. Unlike the
-            # flow-policy#4 head-cam (floating hands, no arm), the Franka arm
-            # occludes the workspace from any on-axis mount — the lateral
-            # offset keeps banana/bowl/table visible with the arm frame-right.
-            pos=(-0.15, 0.35, 1.15),
-            rot=(-0.5024, -0.1547, 0.2504, 0.813),
+            # Above/behind the robot, offset to its left, aimed at table
+            # center. Iterated via ego sweeps (output/camera_calibration/) for
+            # the single-arm rig, then pulled back for the FR3 Duo torso at
+            # (−0.35, 0, 0.45) so the shoulders don't crowd the lens. Unlike
+            # the flow-policy#4 head-cam (floating hands, no arm), arms occlude
+            # the workspace from any on-axis mount — hence the lateral offset.
+            pos=(-0.60, 0.40, 1.35),
+            rot=(-0.5375, -0.2006, 0.2863, 0.7674),
             convention="opengl",
         ),
     )

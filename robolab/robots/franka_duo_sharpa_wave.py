@@ -112,16 +112,21 @@ class FrankaDuoSharpaWaveCfg:
         ),
         init_state=ArticulationCfg.InitialStateCfg(
             # Torso mount height/offset — the FR3 Duo pedestal places the mount
-            # above the table plane; tune with the toggle video.
-            pos=(-0.05, 0, 0.55),
+            # above the table plane; tuned via examples/dump_duo_poses.py
+            # sweeps (first guess −0.05/0.55 put the shoulders over the table).
+            pos=(-0.35, 0, 0.45),
             rot=(1, 0, 0, 0),
             joint_pos={
+                # "Fold" ready pose (candidate g from examples/dump_duo_poses.py
+                # sweep): both hands hover over the table workspace. Left arm
+                # mirrors right via sign flips on joints 1/3/5/7 (here 1/3/5/7
+                # of the g pose are all zero, so both sides share values).
                 "(left|right)_panda_joint1": 0.0,
-                "(left|right)_panda_joint2": -0.4,
+                "(left|right)_panda_joint2": 0.3,
                 "(left|right)_panda_joint3": 0.0,
-                "(left|right)_panda_joint4": -2.0,
+                "(left|right)_panda_joint4": -2.2,
                 "(left|right)_panda_joint5": 0.0,
-                "(left|right)_panda_joint6": 1.6,
+                "(left|right)_panda_joint6": 2.0,
                 "(left|right)_panda_joint7": 0.0,
                 "(left|right)_(thumb|index|middle|ring|pinky)_.*": 0.0,
             },
@@ -150,16 +155,16 @@ class FrankaDuoSharpaWaveCfg:
         },
     )
 
-    wrist_cam_right = _RIGHT_WRIST_CAM
-    wrist_cam_left = _LEFT_WRIST_CAM
+    right_wrist_cam = _RIGHT_WRIST_CAM
+    left_wrist_cam = _LEFT_WRIST_CAM
 
 
 @configclass
 class FrankaDuoWristCamerasCfg:
     """Introspection wrapper for generate_image_obs_from_cameras."""
 
-    wrist_cam_right = _RIGHT_WRIST_CAM
-    wrist_cam_left = _LEFT_WRIST_CAM
+    right_wrist_cam = _RIGHT_WRIST_CAM
+    left_wrist_cam = _LEFT_WRIST_CAM
 
 
 ########################################################
