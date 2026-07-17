@@ -126,10 +126,12 @@ class FrankaDuoSharpaWaveCfg:
             rot=(1, 0, 0, 0),
             joint_pos={
                 # "Fold" ready pose (candidate g from examples/dump_duo_poses.py
-                # sweep): both hands hover over the table workspace. Left arm
-                # mirrors right via sign flips on joints 1/3/5/7 (here 1/3/5/7
-                # of the g pose are all zero, so both sides share values).
-                "(left|right)_panda_joint1": 0.0,
+                # sweep) with a mirrored joint-1 split: with j1=0 the yawed-in
+                # shoulder mounts converge both wrists to the midline (hands
+                # overlapped). ±0.5 on joint 1 keeps each wrist over its own
+                # half of the table.
+                "left_panda_joint1": 0.5,
+                "right_panda_joint1": -0.5,
                 "(left|right)_panda_joint2": 0.3,
                 "(left|right)_panda_joint3": 0.0,
                 "(left|right)_panda_joint4": -2.2,
