@@ -41,14 +41,12 @@ class RobotHeadCameraCfg:
             vertical_aperture=3.2332,
         ),
         offset=TiledCameraCfg.OffsetCfg(
-            # Above/behind the robot, offset to its left, aimed at table
-            # center. Iterated via ego sweeps (output/camera_calibration/) for
-            # the single-arm rig, then pulled back for the FR3 Duo torso at
-            # (−0.35, 0, 0.45) so the shoulders don't crowd the lens. Unlike
-            # the flow-policy#4 head-cam (floating hands, no arm), arms occlude
-            # the workspace from any on-axis mount — hence the lateral offset.
-            pos=(-0.60, 0.40, 1.35),
-            rot=(-0.5375, -0.2006, 0.2863, 0.7674),
+            # Matches the physical rig: head camera on the torso CENTERLINE
+            # (torso base at (−0.35, 0, 0.45)), high up, pitched ~49° down at
+            # the table center. Arm self-occlusion is real on the physical
+            # camera too, so the sim keeps it rather than dodging sideways.
+            pos=(-0.35, 0.0, 1.05),
+            rot=(-0.6632, -0.2453, 0.2453, 0.6632),
             convention="opengl",
         ),
     )
