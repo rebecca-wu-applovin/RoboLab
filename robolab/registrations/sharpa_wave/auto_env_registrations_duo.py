@@ -12,7 +12,7 @@ from robolab.constants import DEFAULT_TASK_SUBFOLDERS, TASK_DIR
 
 
 def auto_register_franka_duo_envs(task_dirs=DEFAULT_TASK_SUBFOLDERS, task=None,
-                                  finger_actions=False):
+                                  finger_actions=False, ik_actions=False):
     from robolab.core.environments.factory import auto_discover_and_create_cfgs
     from robolab.core.observations.observation_utils import (
         generate_image_obs_from_cameras,
@@ -22,6 +22,7 @@ def auto_register_franka_duo_envs(task_dirs=DEFAULT_TASK_SUBFOLDERS, task=None,
     from robolab.robots.franka_duo_sharpa_wave import (
         FrankaDuoProprioceptionObservationCfg,
         FrankaDuoSharpaFingerActionCfg,
+        FrankaDuoSharpaIKActionCfg,
         FrankaDuoSharpaJointPositionActionCfg,
         FrankaDuoSharpaWaveCfg,
         FrankaDuoWristCamerasCfg,
@@ -42,7 +43,12 @@ def auto_register_franka_duo_envs(task_dirs=DEFAULT_TASK_SUBFOLDERS, task=None,
         "viewport_cam": ViewportCameraCfg(),
     })
 
-    actions_cfg = FrankaDuoSharpaFingerActionCfg() if finger_actions else FrankaDuoSharpaJointPositionActionCfg()
+    if ik_actions:
+        actions_cfg = FrankaDuoSharpaIKActionCfg()
+    elif finger_actions:
+        actions_cfg = FrankaDuoSharpaFingerActionCfg()
+    else:
+        actions_cfg = FrankaDuoSharpaJointPositionActionCfg()
 
     # Wrist cameras are robot-mounted — exclude from scene camera mixins.
     scene_cameras = [RobotHeadCameraCfg]

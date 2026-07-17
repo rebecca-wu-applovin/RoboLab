@@ -17,7 +17,9 @@ import isaaclab.envs.mdp as mdp
 import isaaclab.sim as sim_utils
 from isaaclab.actuators import ImplicitActuatorCfg
 from isaaclab.assets import ArticulationCfg
+from isaaclab.controllers.differential_ik_cfg import DifferentialIKControllerCfg
 from isaaclab.envs import ManagerBasedRLEnv
+from isaaclab.envs.mdp.actions.actions_cfg import DifferentialInverseKinematicsActionCfg
 from isaaclab.managers import ObservationGroupCfg as ObsGroup
 from isaaclab.managers import ObservationTermCfg as ObsTerm
 from isaaclab.managers import SceneEntityCfg
@@ -256,6 +258,48 @@ class FrankaDuoSharpaFingerActionCfg:
     )
 
 
+@configclass
+class FrankaDuoSharpaIKActionCfg:
+    """Absolute wrist-pose IK per arm + per-finger hands (7+7+22+22 = 58-dim).
+
+    Pose commands are (x, y, z, qw, qx, qy, qz) for each flange (panda_link8)
+    in the ROBOT ROOT frame (the torso at init_state.pos). Used by the GR00T
+    sharpa client, whose model outputs wrist poses rather than arm joints.
+    """
+
+    left_arm = DifferentialInverseKinematicsActionCfg(
+        asset_name="robot",
+        joint_names=LEFT_ARM_JOINTS,
+        body_name="left_panda_link8",
+        controller=DifferentialIKControllerCfg(command_type="pose", use_relative_mode=False, ik_method="dls"),
+        scale=1.0,
+        body_offset=DifferentialInverseKinematicsActionCfg.OffsetCfg(pos=[0.0, 0.0, 0.0]),
+    )
+
+    right_arm = DifferentialInverseKinematicsActionCfg(
+        asset_name="robot",
+        joint_names=RIGHT_ARM_JOINTS,
+        body_name="right_panda_link8",
+        controller=DifferentialIKControllerCfg(command_type="pose", use_relative_mode=False, ik_method="dls"),
+        scale=1.0,
+        body_offset=DifferentialInverseKinematicsActionCfg.OffsetCfg(pos=[0.0, 0.0, 0.0]),
+    )
+
+    left_hand = mdp.JointPositionActionCfg(
+        asset_name="robot",
+        joint_names=LEFT_HAND_JOINTS_ORDERED,
+        preserve_order=True,
+        use_default_offset=False,
+    )
+
+    right_hand = mdp.JointPositionActionCfg(
+        asset_name="robot",
+        joint_names=RIGHT_HAND_JOINTS_ORDERED,
+        preserve_order=True,
+        use_default_offset=False,
+    )
+
+
 ########################################################
 # Observations
 ########################################################
@@ -283,12 +327,41 @@ def right_hand_joint_pos(env: ManagerBasedRLEnv, asset_cfg: SceneEntityCfg = Sce
     return _joint_pos(env, RIGHT_HAND_JOINTS_ORDERED)
 
 
+def _body_pose(env, body_name):
+    robot = env.scene["robot"]
+    idx = robot.data.body_names.index(body_name)
+    pos = _to_torch(robot.data.body_pos_w)[:, idx, :] - env.scene.env_origins[:, 0:3]
+    quat = _to_torch(robot.data.body_quat_w)[:, idx, :]
+    return pos, quat
+
+
+def left_eef_pos(env: ManagerBasedRLEnv, asset_cfg: SceneEntityCfg = SceneEntityCfg("robot")):
+    return _body_pose(env, "left_panda_link8")[0]
+
+
+def left_eef_quat(env: ManagerBasedRLEnv, asset_cfg: SceneEntityCfg = SceneEntityCfg("robot")):
+    return _body_pose(env, "left_panda_link8")[1]
+
+
+def right_eef_pos(env: ManagerBasedRLEnv, asset_cfg: SceneEntityCfg = SceneEntityCfg("robot")):
+    return _body_pose(env, "right_panda_link8")[0]
+
+
+def right_eef_quat(env: ManagerBasedRLEnv, asset_cfg: SceneEntityCfg = SceneEntityCfg("robot")):
+    return _body_pose(env, "right_panda_link8")[1]
+
+
 @configclass
 class FrankaDuoProprioceptionObservationCfg(ObsGroup):
     left_arm_joint_pos = ObsTerm(func=left_arm_joint_pos)
     right_arm_joint_pos = ObsTerm(func=right_arm_joint_pos)
     left_hand_joint_pos = ObsTerm(func=left_hand_joint_pos)
     right_hand_joint_pos = ObsTerm(func=right_hand_joint_pos)
+    # Flange (panda_link8) poses in the env-local frame, w-first quats.
+    left_eef_pos = ObsTerm(func=left_eef_pos)
+    left_eef_quat = ObsTerm(func=left_eef_quat)
+    right_eef_pos = ObsTerm(func=right_eef_pos)
+    right_eef_quat = ObsTerm(func=right_eef_quat)
 
     def __post_init__(self) -> None:
         self.enable_corruption = False  # must include
