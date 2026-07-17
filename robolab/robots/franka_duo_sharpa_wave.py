@@ -84,8 +84,14 @@ _LEFT_WRIST_CAM = TiledCameraCfg(
         vertical_aperture=5.6,
     ),
     offset=TiledCameraCfg.OffsetCfg(
-        pos=(0.0624, 0.0495, -0.0098),
-        rot=(-0.2932, 0.8576, -0.4217, -0.0281),
+        # Exact y-mirror of the right camera (hardware-symmetric mounts, the
+        # standard on bimanual rigs — ALOHA 2, FR3 Duo). The Sharpa left hand
+        # is a y-mirror of the right in its own base frame, so this aims at
+        # the left thumb–index grasp aperture. Replaces flow-policy#4's
+        # asymmetric left pose, which was tuned for TACO's task-specific
+        # left-palm-inward role rather than mirrored hardware.
+        pos=(0.0747, 0.0213, -0.0355),
+        rot=(-0.2051, 0.5957, 0.7446, 0.2205),
         convention="opengl",
     ),
 )
