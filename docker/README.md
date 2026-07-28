@@ -65,7 +65,7 @@ docker run --rm -it \
 ## What's in the image
 
 - **Base**: `nvcr.io/nvidia/isaac-lab:2.2.0` (IsaacSim 5.0) or `:2.3.0` (IsaacSim 5.1), selected via the `ISAACLAB_TAG` build arg (`build_docker.sh --isaac51`)
-- **Code**: `robolab/`, `scripts/`, `examples/`
+- **Code**: `robolab/`, `scripts/`, `examples/`, `tests/`
 - **Assets**: `assets/` (~6.5GB)
 - **Python packages**: Everything in `requirements.txt`, installed via `pip install -e .`
 - **System tools**: `htop`, `nvtop`, `tmux`, `vim`, `git-lfs`, `zip`
