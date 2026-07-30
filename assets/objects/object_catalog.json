@@ -9982,5 +9982,6597 @@
     "static_friction": 2.0,
     "restitution": 0.10000000149011612,
     "dataset": "ycb"
+  },
+  {
+    "name": "taco_001",
+    "usd_path": "assets/objects/taco/taco_001.usd",
+    "prim_path": "/taco_001",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 001 (tool-action-object interaction dataset). Dims: 0.266x0.068x0.056 m.",
+    "dims": [
+      0.26630643010139465,
+      0.06832004338502884,
+      0.055946461856365204
+    ],
+    "mass": 0.14271768927574158,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_002",
+    "usd_path": "assets/objects/taco/taco_002.usd",
+    "prim_path": "/taco_002",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 002 (tool-action-object interaction dataset). Dims: 0.300x0.103x0.026 m.",
+    "dims": [
+      0.29969626665115356,
+      0.10255415737628937,
+      0.026022160425782204
+    ],
+    "mass": 0.12902206182479858,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_004",
+    "usd_path": "assets/objects/taco/taco_004.usd",
+    "prim_path": "/taco_004",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 004 (tool-action-object interaction dataset). Dims: 0.174x0.039x0.035 m.",
+    "dims": [
+      0.1743088811635971,
+      0.038688160479068756,
+      0.034620439633727074
+    ],
+    "mass": 0.07970161736011505,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_005",
+    "usd_path": "assets/objects/taco/taco_005.usd",
+    "prim_path": "/taco_005",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 005 (tool-action-object interaction dataset). Dims: 0.300x0.191x0.027 m.",
+    "dims": [
+      0.300057590007782,
+      0.19137413799762726,
+      0.02721584029495716
+    ],
+    "mass": 0.2207069844007492,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_006",
+    "usd_path": "assets/objects/taco/taco_006.usd",
+    "prim_path": "/taco_006",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 006 (tool-action-object interaction dataset). Dims: 0.099x0.050x0.072 m.",
+    "dims": [
+      0.09899496287107468,
+      0.05005842074751854,
+      0.07228910177946091
+    ],
+    "mass": 0.14490459859371185,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_007",
+    "usd_path": "assets/objects/taco/taco_007.usd",
+    "prim_path": "/taco_007",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 007 (tool-action-object interaction dataset). Dims: 0.062x0.065x0.132 m.",
+    "dims": [
+      0.06230093911290169,
+      0.06532768160104752,
+      0.13209614157676697
+    ],
+    "mass": 0.21505123376846313,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_008",
+    "usd_path": "assets/objects/taco/taco_008.usd",
+    "prim_path": "/taco_008",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 008 (tool-action-object interaction dataset). Dims: 0.118x0.085x0.102 m.",
+    "dims": [
+      0.11805640161037445,
+      0.08473443984985352,
+      0.10173530131578445
+    ],
+    "mass": 0.4070813059806824,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_009",
+    "usd_path": "assets/objects/taco/taco_009.usd",
+    "prim_path": "/taco_009",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 009 (tool-action-object interaction dataset). Dims: 0.081x0.081x0.125 m.",
+    "dims": [
+      0.08109749853610992,
+      0.08084657788276672,
+      0.12521791458129883
+    ],
+    "mass": 0.3283942937850952,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_010",
+    "usd_path": "assets/objects/taco/taco_010.usd",
+    "prim_path": "/taco_010",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 010 (tool-action-object interaction dataset). Dims: 0.128x0.091x0.061 m.",
+    "dims": [
+      0.12827418744564056,
+      0.09128616005182266,
+      0.060737740248441696
+    ],
+    "mass": 0.284487247467041,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_013",
+    "usd_path": "assets/objects/taco/taco_013.usd",
+    "prim_path": "/taco_013",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 013 (tool-action-object interaction dataset). Dims: 0.094x0.050x0.030 m.",
+    "dims": [
+      0.094202421605587,
+      0.05018078163266182,
+      0.03018888086080551
+    ],
+    "mass": 0.09109175205230713,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_015",
+    "usd_path": "assets/objects/taco/taco_015.usd",
+    "prim_path": "/taco_015",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 015 (tool-action-object interaction dataset). Dims: 0.456x0.299x0.086 m.",
+    "dims": [
+      0.4559955596923828,
+      0.29860755801200867,
+      0.0855054035782814
+    ],
+    "mass": 4.657093524932861,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_016",
+    "usd_path": "assets/objects/taco/taco_016.usd",
+    "prim_path": "/taco_016",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 016 (tool-action-object interaction dataset). Dims: 0.298x0.087x0.061 m.",
+    "dims": [
+      0.2980014681816101,
+      0.08738359808921814,
+      0.061247099190950394
+    ],
+    "mass": 0.07999014109373093,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_019",
+    "usd_path": "assets/objects/taco/taco_019.usd",
+    "prim_path": "/taco_019",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 019 (tool-action-object interaction dataset). Dims: 0.202x0.230x0.069 m.",
+    "dims": [
+      0.20167283713817596,
+      0.23035429418087006,
+      0.06902638077735901
+    ],
+    "mass": 1.2826814651489258,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_020",
+    "usd_path": "assets/objects/taco/taco_020.usd",
+    "prim_path": "/taco_020",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 020 (tool-action-object interaction dataset). Dims: 0.171x0.239x0.017 m.",
+    "dims": [
+      0.17105968296527863,
+      0.23945316672325134,
+      0.01730022020637989
+    ],
+    "mass": 0.10760913044214249,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_021",
+    "usd_path": "assets/objects/taco/taco_021.usd",
+    "prim_path": "/taco_021",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 021 (tool-action-object interaction dataset). Dims: 0.201x0.352x0.023 m.",
+    "dims": [
+      0.2008337378501892,
+      0.351928174495697,
+      0.023017939180135727
+    ],
+    "mass": 0.8632819056510925,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_022",
+    "usd_path": "assets/objects/taco/taco_022.usd",
+    "prim_path": "/taco_022",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 022 (tool-action-object interaction dataset). Dims: 0.118x0.117x0.070 m.",
+    "dims": [
+      0.11775506287813187,
+      0.11711803823709488,
+      0.06964828073978424
+    ],
+    "mass": 0.23512083292007446,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_023",
+    "usd_path": "assets/objects/taco/taco_023.usd",
+    "prim_path": "/taco_023",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 023 (tool-action-object interaction dataset). Dims: 0.139x0.139x0.058 m.",
+    "dims": [
+      0.13862277567386627,
+      0.13880586624145508,
+      0.05844530090689659
+    ],
+    "mass": 0.05914907157421112,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_024",
+    "usd_path": "assets/objects/taco/taco_024.usd",
+    "prim_path": "/taco_024",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 024 (tool-action-object interaction dataset). Dims: 0.196x0.196x0.095 m.",
+    "dims": [
+      0.19619326293468475,
+      0.19614551961421967,
+      0.09522043913602829
+    ],
+    "mass": 0.12246625125408173,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_025",
+    "usd_path": "assets/objects/taco/taco_025.usd",
+    "prim_path": "/taco_025",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 025 (tool-action-object interaction dataset). Dims: 0.274x0.082x0.076 m.",
+    "dims": [
+      0.2738426923751831,
+      0.08170583844184875,
+      0.07641477882862091
+    ],
+    "mass": 0.10810994356870651,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_026",
+    "usd_path": "assets/objects/taco/taco_026.usd",
+    "prim_path": "/taco_026",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 026 (tool-action-object interaction dataset). Dims: 0.391x0.096x0.018 m.",
+    "dims": [
+      0.3905075788497925,
+      0.09557750076055527,
+      0.018282299861311913
+    ],
+    "mass": 0.10002020746469498,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_027",
+    "usd_path": "assets/objects/taco/taco_027.usd",
+    "prim_path": "/taco_027",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 027 (tool-action-object interaction dataset). Dims: 0.435x0.263x0.102 m.",
+    "dims": [
+      0.43463701009750366,
+      0.26315054297447205,
+      0.10176791995763779
+    ],
+    "mass": 0.36522912979125977,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_028",
+    "usd_path": "assets/objects/taco/taco_028.usd",
+    "prim_path": "/taco_028",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 028 (tool-action-object interaction dataset). Dims: 0.355x0.201x0.102 m.",
+    "dims": [
+      0.35455816984176636,
+      0.20099395513534546,
+      0.10186681896448135
+    ],
+    "mass": 1.3494513034820557,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_029",
+    "usd_path": "assets/objects/taco/taco_029.usd",
+    "prim_path": "/taco_029",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 029 (tool-action-object interaction dataset). Dims: 0.167x0.132x0.248 m.",
+    "dims": [
+      0.16749529540538788,
+      0.1323087215423584,
+      0.24835394322872162
+    ],
+    "mass": 2.645517587661743,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_030",
+    "usd_path": "assets/objects/taco/taco_030.usd",
+    "prim_path": "/taco_030",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 030 (tool-action-object interaction dataset). Dims: 0.202x0.163x0.260 m.",
+    "dims": [
+      0.20217761397361755,
+      0.16323596239089966,
+      0.26016920804977417
+    ],
+    "mass": 4.062921524047852,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_031",
+    "usd_path": "assets/objects/taco/taco_031.usd",
+    "prim_path": "/taco_031",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 031 (tool-action-object interaction dataset). Dims: 0.197x0.116x0.048 m.",
+    "dims": [
+      0.19734041392803192,
+      0.11643193662166595,
+      0.04831523820757866
+    ],
+    "mass": 0.2047080397605896,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_032",
+    "usd_path": "assets/objects/taco/taco_032.usd",
+    "prim_path": "/taco_032",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 032 (tool-action-object interaction dataset). Dims: 0.254x0.072x0.073 m.",
+    "dims": [
+      0.2542257308959961,
+      0.07193031907081604,
+      0.07259649783372879
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_033",
+    "usd_path": "assets/objects/taco/taco_033.usd",
+    "prim_path": "/taco_033",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 033 (tool-action-object interaction dataset). Dims: 0.327x0.080x0.016 m.",
+    "dims": [
+      0.3273637294769287,
+      0.07973773777484894,
+      0.01634169928729534
+    ],
+    "mass": 0.0615939237177372,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_034",
+    "usd_path": "assets/objects/taco/taco_034.usd",
+    "prim_path": "/taco_034",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 034 (tool-action-object interaction dataset). Dims: 0.205x0.069x0.029 m.",
+    "dims": [
+      0.20502986013889313,
+      0.06857042014598846,
+      0.029227880761027336
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_035",
+    "usd_path": "assets/objects/taco/taco_035.usd",
+    "prim_path": "/taco_035",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 035 (tool-action-object interaction dataset). Dims: 0.325x0.084x0.083 m.",
+    "dims": [
+      0.3252098262310028,
+      0.08434004336595535,
+      0.08287151902914047
+    ],
+    "mass": 0.30470389127731323,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_036",
+    "usd_path": "assets/objects/taco/taco_036.usd",
+    "prim_path": "/taco_036",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 036 (tool-action-object interaction dataset). Dims: 0.273x0.096x0.033 m.",
+    "dims": [
+      0.272968053817749,
+      0.09551309794187546,
+      0.033327098935842514
+    ],
+    "mass": 0.0773623064160347,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_037",
+    "usd_path": "assets/objects/taco/taco_037.usd",
+    "prim_path": "/taco_037",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 037 (tool-action-object interaction dataset). Dims: 0.301x0.098x0.067 m.",
+    "dims": [
+      0.3013719916343689,
+      0.09835228323936462,
+      0.06666702032089233
+    ],
+    "mass": 0.3692674934864044,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_038",
+    "usd_path": "assets/objects/taco/taco_038.usd",
+    "prim_path": "/taco_038",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 038 (tool-action-object interaction dataset). Dims: 0.266x0.234x0.159 m.",
+    "dims": [
+      0.26572510600090027,
+      0.23380576074123383,
+      0.15864351391792297
+    ],
+    "mass": 2.4692091941833496,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_039",
+    "usd_path": "assets/objects/taco/taco_039.usd",
+    "prim_path": "/taco_039",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 039 (tool-action-object interaction dataset). Dims: 0.273x0.230x0.167 m.",
+    "dims": [
+      0.2728975713253021,
+      0.2298208773136139,
+      0.16653811931610107
+    ],
+    "mass": 2.587040424346924,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_040",
+    "usd_path": "assets/objects/taco/taco_040.usd",
+    "prim_path": "/taco_040",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 040 (tool-action-object interaction dataset). Dims: 0.173x0.124x0.269 m.",
+    "dims": [
+      0.17259012162685394,
+      0.12361954152584076,
+      0.268619567155838
+    ],
+    "mass": 2.707784414291382,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_041",
+    "usd_path": "assets/objects/taco/taco_041.usd",
+    "prim_path": "/taco_041",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 041 (tool-action-object interaction dataset). Dims: 0.121x0.068x0.061 m.",
+    "dims": [
+      0.12138576060533524,
+      0.06768643856048584,
+      0.06098584085702896
+    ],
+    "mass": 0.23347625136375427,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_042",
+    "usd_path": "assets/objects/taco/taco_042.usd",
+    "prim_path": "/taco_042",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 042 (tool-action-object interaction dataset). Dims: 0.171x0.040x0.029 m.",
+    "dims": [
+      0.17110517621040344,
+      0.04002004861831665,
+      0.029294569976627827
+    ],
+    "mass": 0.07241716980934143,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_043",
+    "usd_path": "assets/objects/taco/taco_043.usd",
+    "prim_path": "/taco_043",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 043 (tool-action-object interaction dataset). Dims: 0.133x0.151x0.031 m.",
+    "dims": [
+      0.13284209370613098,
+      0.15110664069652557,
+      0.030898280441761017
+    ],
+    "mass": 0.15582123398780823,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_044",
+    "usd_path": "assets/objects/taco/taco_044.usd",
+    "prim_path": "/taco_044",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 044 (tool-action-object interaction dataset). Dims: 0.283x0.050x0.022 m.",
+    "dims": [
+      0.28312966227531433,
+      0.04970020055770874,
+      0.021605180576443672
+    ],
+    "mass": 0.06651313602924347,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_045",
+    "usd_path": "assets/objects/taco/taco_045.usd",
+    "prim_path": "/taco_045",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 045 (tool-action-object interaction dataset). Dims: 0.225x0.026x0.017 m.",
+    "dims": [
+      0.22530147433280945,
+      0.026008479297161102,
+      0.017075039446353912
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_046",
+    "usd_path": "assets/objects/taco/taco_046.usd",
+    "prim_path": "/taco_046",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 046 (tool-action-object interaction dataset). Dims: 0.216x0.072x0.009 m.",
+    "dims": [
+      0.2155161052942276,
+      0.07167433947324753,
+      0.008959750179201365
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_047",
+    "usd_path": "assets/objects/taco/taco_047.usd",
+    "prim_path": "/taco_047",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 047 (tool-action-object interaction dataset). Dims: 0.209x0.141x0.039 m.",
+    "dims": [
+      0.20888009667396545,
+      0.14142465591430664,
+      0.03860364109277725
+    ],
+    "mass": 0.26776036620140076,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_048",
+    "usd_path": "assets/objects/taco/taco_048.usd",
+    "prim_path": "/taco_048",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 048 (tool-action-object interaction dataset). Dims: 0.118x0.041x0.140 m.",
+    "dims": [
+      0.11773806065320969,
+      0.04078347980976105,
+      0.13958661258220673
+    ],
+    "mass": 0.19055062532424927,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_049",
+    "usd_path": "assets/objects/taco/taco_049.usd",
+    "prim_path": "/taco_049",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 049 (tool-action-object interaction dataset). Dims: 0.250x0.348x0.023 m.",
+    "dims": [
+      0.2504877746105194,
+      0.3484126031398773,
+      0.023398980498313904
+    ],
+    "mass": 1.3954013586044312,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_050",
+    "usd_path": "assets/objects/taco/taco_050.usd",
+    "prim_path": "/taco_050",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 050 (tool-action-object interaction dataset). Dims: 0.301x0.087x0.053 m.",
+    "dims": [
+      0.3008079528808594,
+      0.08657147735357285,
+      0.05349170044064522
+    ],
+    "mass": 0.06205086037516594,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_051",
+    "usd_path": "assets/objects/taco/taco_051.usd",
+    "prim_path": "/taco_051",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 051 (tool-action-object interaction dataset). Dims: 0.276x0.246x0.172 m.",
+    "dims": [
+      0.2764475345611572,
+      0.24646633863449097,
+      0.17220020294189453
+    ],
+    "mass": 2.962947130203247,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_052",
+    "usd_path": "assets/objects/taco/taco_052.usd",
+    "prim_path": "/taco_052",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 052 (tool-action-object interaction dataset). Dims: 0.253x0.252x0.029 m.",
+    "dims": [
+      0.2532653510570526,
+      0.25179097056388855,
+      0.028833160176873207
+    ],
+    "mass": 0.6200721859931946,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_053",
+    "usd_path": "assets/objects/taco/taco_053.usd",
+    "prim_path": "/taco_053",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 053 (tool-action-object interaction dataset). Dims: 0.287x0.058x0.032 m.",
+    "dims": [
+      0.28738313913345337,
+      0.05847407877445221,
+      0.03201879933476448
+    ],
+    "mass": 0.06249449402093887,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_054",
+    "usd_path": "assets/objects/taco/taco_054.usd",
+    "prim_path": "/taco_054",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 054 (tool-action-object interaction dataset). Dims: 0.165x0.034x0.013 m.",
+    "dims": [
+      0.16536934673786163,
+      0.03396442160010338,
+      0.013493159785866737
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_055",
+    "usd_path": "assets/objects/taco/taco_055.usd",
+    "prim_path": "/taco_055",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 055 (tool-action-object interaction dataset). Dims: 0.132x0.061x0.006 m.",
+    "dims": [
+      0.13179278373718262,
+      0.06093655899167061,
+      0.006384239997714758
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_056",
+    "usd_path": "assets/objects/taco/taco_056.usd",
+    "prim_path": "/taco_056",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 056 (tool-action-object interaction dataset). Dims: 0.109x0.066x0.030 m.",
+    "dims": [
+      0.10905282199382782,
+      0.06633029878139496,
+      0.030302200466394424
+    ],
+    "mass": 0.16788806021213531,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_057",
+    "usd_path": "assets/objects/taco/taco_057.usd",
+    "prim_path": "/taco_057",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 057 (tool-action-object interaction dataset). Dims: 0.240x0.190x0.142 m.",
+    "dims": [
+      0.2401653230190277,
+      0.1902853399515152,
+      0.14240625500679016
+    ],
+    "mass": 1.332861304283142,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_058",
+    "usd_path": "assets/objects/taco/taco_058.usd",
+    "prim_path": "/taco_058",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 058 (tool-action-object interaction dataset). Dims: 0.198x0.030x0.030 m.",
+    "dims": [
+      0.19760867953300476,
+      0.029836060479283333,
+      0.02959005907177925
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_059",
+    "usd_path": "assets/objects/taco/taco_059.usd",
+    "prim_path": "/taco_059",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 059 (tool-action-object interaction dataset). Dims: 0.196x0.029x0.030 m.",
+    "dims": [
+      0.1960284262895584,
+      0.029495399445295334,
+      0.0298359002918005
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_060",
+    "usd_path": "assets/objects/taco/taco_060.usd",
+    "prim_path": "/taco_060",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 060 (tool-action-object interaction dataset). Dims: 0.326x0.100x0.040 m.",
+    "dims": [
+      0.3259114921092987,
+      0.09952846169471741,
+      0.04014705866575241
+    ],
+    "mass": 0.08250516653060913,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_061",
+    "usd_path": "assets/objects/taco/taco_061.usd",
+    "prim_path": "/taco_061",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 061 (tool-action-object interaction dataset). Dims: 0.302x0.081x0.021 m.",
+    "dims": [
+      0.30209556221961975,
+      0.08071170002222061,
+      0.020645320415496826
+    ],
+    "mass": 0.2013550102710724,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_062",
+    "usd_path": "assets/objects/taco/taco_062.usd",
+    "prim_path": "/taco_062",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 062 (tool-action-object interaction dataset). Dims: 0.171x0.039x0.015 m.",
+    "dims": [
+      0.17074091732501984,
+      0.038622379302978516,
+      0.01472545973956585
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_063",
+    "usd_path": "assets/objects/taco/taco_063.usd",
+    "prim_path": "/taco_063",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 063 (tool-action-object interaction dataset). Dims: 0.306x0.093x0.021 m.",
+    "dims": [
+      0.30553731322288513,
+      0.09270644187927246,
+      0.020791279152035713
+    ],
+    "mass": 0.11853645741939545,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_064",
+    "usd_path": "assets/objects/taco/taco_064.usd",
+    "prim_path": "/taco_064",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 064 (tool-action-object interaction dataset). Dims: 0.218x0.038x0.024 m.",
+    "dims": [
+      0.21796120703220367,
+      0.038110021501779556,
+      0.023983540013432503
+    ],
+    "mass": 0.07968776673078537,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_065",
+    "usd_path": "assets/objects/taco/taco_065.usd",
+    "prim_path": "/taco_065",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 065 (tool-action-object interaction dataset). Dims: 0.063x0.131x0.034 m.",
+    "dims": [
+      0.06319621950387955,
+      0.1310824751853943,
+      0.03434041887521744
+    ],
+    "mass": 0.21073667705059052,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_066",
+    "usd_path": "assets/objects/taco/taco_066.usd",
+    "prim_path": "/taco_066",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 066 (tool-action-object interaction dataset). Dims: 0.125x0.053x0.030 m.",
+    "dims": [
+      0.12531475722789764,
+      0.053318340331315994,
+      0.030260059982538223
+    ],
+    "mass": 0.17426471412181854,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_067",
+    "usd_path": "assets/objects/taco/taco_067.usd",
+    "prim_path": "/taco_067",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 067 (tool-action-object interaction dataset). Dims: 0.059x0.108x0.023 m.",
+    "dims": [
+      0.0587756410241127,
+      0.10782352089881897,
+      0.022670840844511986
+    ],
+    "mass": 0.12942977249622345,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_068",
+    "usd_path": "assets/objects/taco/taco_068.usd",
+    "prim_path": "/taco_068",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 068 (tool-action-object interaction dataset). Dims: 0.123x0.059x0.076 m.",
+    "dims": [
+      0.12275581806898117,
+      0.05941415950655937,
+      0.07553689926862717
+    ],
+    "mass": 0.14202797412872314,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_069",
+    "usd_path": "assets/objects/taco/taco_069.usd",
+    "prim_path": "/taco_069",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 069 (tool-action-object interaction dataset). Dims: 0.174x0.037x0.037 m.",
+    "dims": [
+      0.17424727976322174,
+      0.03709486126899719,
+      0.03716665878891945
+    ],
+    "mass": 0.10442426055669785,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_070",
+    "usd_path": "assets/objects/taco/taco_070.usd",
+    "prim_path": "/taco_070",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 070 (tool-action-object interaction dataset). Dims: 0.192x0.174x0.051 m.",
+    "dims": [
+      0.19181111454963684,
+      0.17405135929584503,
+      0.05121424049139023
+    ],
+    "mass": 0.33137083053588867,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_071",
+    "usd_path": "assets/objects/taco/taco_071.usd",
+    "prim_path": "/taco_071",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 071 (tool-action-object interaction dataset). Dims: 0.142x0.084x0.064 m.",
+    "dims": [
+      0.14159442484378815,
+      0.08413658291101456,
+      0.06356330215930939
+    ],
+    "mass": 0.1793651282787323,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_072",
+    "usd_path": "assets/objects/taco/taco_072.usd",
+    "prim_path": "/taco_072",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 072 (tool-action-object interaction dataset). Dims: 0.229x0.038x0.049 m.",
+    "dims": [
+      0.22853000462055206,
+      0.037572260946035385,
+      0.04947692155838013
+    ],
+    "mass": 0.0915774554014206,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_073",
+    "usd_path": "assets/objects/taco/taco_073.usd",
+    "prim_path": "/taco_073",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 073 (tool-action-object interaction dataset). Dims: 0.238x0.024x0.016 m.",
+    "dims": [
+      0.2379409819841385,
+      0.024267740547657013,
+      0.016135800629854202
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_074",
+    "usd_path": "assets/objects/taco/taco_074.usd",
+    "prim_path": "/taco_074",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 074 (tool-action-object interaction dataset). Dims: 0.315x0.114x0.022 m.",
+    "dims": [
+      0.3151705265045166,
+      0.11372257769107819,
+      0.021533619612455368
+    ],
+    "mass": 0.11863229423761368,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_075",
+    "usd_path": "assets/objects/taco/taco_075.usd",
+    "prim_path": "/taco_075",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 075 (tool-action-object interaction dataset). Dims: 0.114x0.083x0.053 m.",
+    "dims": [
+      0.1138833612203598,
+      0.08274219930171967,
+      0.0527961403131485
+    ],
+    "mass": 0.198998361825943,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_076",
+    "usd_path": "assets/objects/taco/taco_076.usd",
+    "prim_path": "/taco_076",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 076 (tool-action-object interaction dataset). Dims: 0.181x0.133x0.050 m.",
+    "dims": [
+      0.18059341609477997,
+      0.1327095925807953,
+      0.04997370019555092
+    ],
+    "mass": 0.4790774881839752,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_077",
+    "usd_path": "assets/objects/taco/taco_077.usd",
+    "prim_path": "/taco_077",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 077 (tool-action-object interaction dataset). Dims: 0.127x0.139x0.035 m.",
+    "dims": [
+      0.12667183578014374,
+      0.13867336511611938,
+      0.03514194115996361
+    ],
+    "mass": 0.13232050836086273,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_078",
+    "usd_path": "assets/objects/taco/taco_078.usd",
+    "prim_path": "/taco_078",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 078 (tool-action-object interaction dataset). Dims: 0.134x0.050x0.046 m.",
+    "dims": [
+      0.13406583666801453,
+      0.0495438389480114,
+      0.046336300671100616
+    ],
+    "mass": 0.19618314504623413,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_079",
+    "usd_path": "assets/objects/taco/taco_079.usd",
+    "prim_path": "/taco_079",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 079 (tool-action-object interaction dataset). Dims: 0.207x0.175x0.406 m.",
+    "dims": [
+      0.20681756734848022,
+      0.17510075867176056,
+      0.4060414135456085
+    ],
+    "mass": 5.0,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_080",
+    "usd_path": "assets/objects/taco/taco_080.usd",
+    "prim_path": "/taco_080",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 080 (tool-action-object interaction dataset). Dims: 0.098x0.059x0.172 m.",
+    "dims": [
+      0.09802881628274918,
+      0.05911631882190704,
+      0.17170551419258118
+    ],
+    "mass": 0.6158627271652222,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_081",
+    "usd_path": "assets/objects/taco/taco_081.usd",
+    "prim_path": "/taco_081",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 081 (tool-action-object interaction dataset). Dims: 0.168x0.054x0.070 m.",
+    "dims": [
+      0.16773049533367157,
+      0.053781699389219284,
+      0.0700889378786087
+    ],
+    "mass": 0.28347688913345337,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_082",
+    "usd_path": "assets/objects/taco/taco_082.usd",
+    "prim_path": "/taco_082",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 082 (tool-action-object interaction dataset). Dims: 0.187x0.190x0.079 m.",
+    "dims": [
+      0.18719926476478577,
+      0.1896190345287323,
+      0.07891824096441269
+    ],
+    "mass": 0.4585087299346924,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_083",
+    "usd_path": "assets/objects/taco/taco_083.usd",
+    "prim_path": "/taco_083",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 083 (tool-action-object interaction dataset). Dims: 0.234x0.047x0.028 m.",
+    "dims": [
+      0.23394103348255157,
+      0.04725996032357216,
+      0.02823209948837757
+    ],
+    "mass": 0.05699881911277771,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_084",
+    "usd_path": "assets/objects/taco/taco_084.usd",
+    "prim_path": "/taco_084",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 084 (tool-action-object interaction dataset). Dims: 0.463x0.288x0.087 m.",
+    "dims": [
+      0.4630972743034363,
+      0.2879001498222351,
+      0.08665941655635834
+    ],
+    "mass": 4.621573448181152,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_085",
+    "usd_path": "assets/objects/taco/taco_085.usd",
+    "prim_path": "/taco_085",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 085 (tool-action-object interaction dataset). Dims: 0.477x0.310x0.111 m.",
+    "dims": [
+      0.47662922739982605,
+      0.3100007176399231,
+      0.11143626272678375
+    ],
+    "mass": 5.0,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_086",
+    "usd_path": "assets/objects/taco/taco_086.usd",
+    "prim_path": "/taco_086",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 086 (tool-action-object interaction dataset). Dims: 0.268x0.237x0.167 m.",
+    "dims": [
+      0.26843634247779846,
+      0.2368691861629486,
+      0.1667819619178772
+    ],
+    "mass": 3.1023471355438232,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_087",
+    "usd_path": "assets/objects/taco/taco_087.usd",
+    "prim_path": "/taco_087",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 087 (tool-action-object interaction dataset). Dims: 0.179x0.124x0.082 m.",
+    "dims": [
+      0.17917537689208984,
+      0.12427631765604019,
+      0.0816643163561821
+    ],
+    "mass": 0.21049870550632477,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_088",
+    "usd_path": "assets/objects/taco/taco_088.usd",
+    "prim_path": "/taco_088",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 088 (tool-action-object interaction dataset). Dims: 0.127x0.093x0.056 m.",
+    "dims": [
+      0.12707571685314178,
+      0.09326086193323135,
+      0.05644318088889122
+    ],
+    "mass": 0.13962902128696442,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_089",
+    "usd_path": "assets/objects/taco/taco_089.usd",
+    "prim_path": "/taco_089",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 089 (tool-action-object interaction dataset). Dims: 0.187x0.144x0.257 m.",
+    "dims": [
+      0.18657171726226807,
+      0.1440294235944748,
+      0.25650450587272644
+    ],
+    "mass": 2.974428415298462,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_090",
+    "usd_path": "assets/objects/taco/taco_090.usd",
+    "prim_path": "/taco_090",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 090 (tool-action-object interaction dataset). Dims: 0.293x0.072x0.010 m.",
+    "dims": [
+      0.29279568791389465,
+      0.07205820083618164,
+      0.01047825999557972
+    ],
+    "mass": 0.07593709230422974,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_091",
+    "usd_path": "assets/objects/taco/taco_091.usd",
+    "prim_path": "/taco_091",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 091 (tool-action-object interaction dataset). Dims: 0.208x0.050x0.005 m.",
+    "dims": [
+      0.20761752128601074,
+      0.0502970889210701,
+      0.004616390215232968
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_092",
+    "usd_path": "assets/objects/taco/taco_092.usd",
+    "prim_path": "/taco_092",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 092 (tool-action-object interaction dataset). Dims: 0.144x0.058x0.027 m.",
+    "dims": [
+      0.14443166553974152,
+      0.05795186012983322,
+      0.026715140789747238
+    ],
+    "mass": 0.20397768914699554,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_093",
+    "usd_path": "assets/objects/taco/taco_093.usd",
+    "prim_path": "/taco_093",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 093 (tool-action-object interaction dataset). Dims: 0.211x0.107x0.080 m.",
+    "dims": [
+      0.21119503676891327,
+      0.10731227695941925,
+      0.08002173900604248
+    ],
+    "mass": 0.5547134280204773,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_094",
+    "usd_path": "assets/objects/taco/taco_094.usd",
+    "prim_path": "/taco_094",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 094 (tool-action-object interaction dataset). Dims: 0.137x0.096x0.061 m.",
+    "dims": [
+      0.13672204315662384,
+      0.09597206115722656,
+      0.06118481978774071
+    ],
+    "mass": 0.10371247678995132,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_095",
+    "usd_path": "assets/objects/taco/taco_095.usd",
+    "prim_path": "/taco_095",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 095 (tool-action-object interaction dataset). Dims: 0.108x0.086x0.060 m.",
+    "dims": [
+      0.10777033865451813,
+      0.08580123633146286,
+      0.06017995998263359
+    ],
+    "mass": 0.22258950769901276,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_096",
+    "usd_path": "assets/objects/taco/taco_096.usd",
+    "prim_path": "/taco_096",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 096 (tool-action-object interaction dataset). Dims: 0.144x0.088x0.075 m.",
+    "dims": [
+      0.1436115801334381,
+      0.08812759816646576,
+      0.07452168315649033
+    ],
+    "mass": 0.37726283073425293,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_097",
+    "usd_path": "assets/objects/taco/taco_097.usd",
+    "prim_path": "/taco_097",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 097 (tool-action-object interaction dataset). Dims: 0.132x0.080x0.075 m.",
+    "dims": [
+      0.1322786957025528,
+      0.07952603697776794,
+      0.07496090233325958
+    ],
+    "mass": 0.25009065866470337,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_098",
+    "usd_path": "assets/objects/taco/taco_098.usd",
+    "prim_path": "/taco_098",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 098 (tool-action-object interaction dataset). Dims: 0.112x0.084x0.056 m.",
+    "dims": [
+      0.11235292255878448,
+      0.08400384336709976,
+      0.05597224086523056
+    ],
+    "mass": 0.07456717640161514,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_099",
+    "usd_path": "assets/objects/taco/taco_099.usd",
+    "prim_path": "/taco_099",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 099 (tool-action-object interaction dataset). Dims: 0.096x0.083x0.071 m.",
+    "dims": [
+      0.09575282037258148,
+      0.08346249908208847,
+      0.07113446295261383
+    ],
+    "mass": 0.1069820448756218,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_100",
+    "usd_path": "assets/objects/taco/taco_100.usd",
+    "prim_path": "/taco_100",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 100 (tool-action-object interaction dataset). Dims: 0.123x0.093x0.090 m.",
+    "dims": [
+      0.12302330136299133,
+      0.09330923855304718,
+      0.08968199789524078
+    ],
+    "mass": 0.1293046772480011,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_101",
+    "usd_path": "assets/objects/taco/taco_101.usd",
+    "prim_path": "/taco_101",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 101 (tool-action-object interaction dataset). Dims: 0.074x0.074x0.058 m.",
+    "dims": [
+      0.07401999831199646,
+      0.07368911802768707,
+      0.0584893599152565
+    ],
+    "mass": 0.17794224619865417,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_102",
+    "usd_path": "assets/objects/taco/taco_102.usd",
+    "prim_path": "/taco_102",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 102 (tool-action-object interaction dataset). Dims: 0.276x0.232x0.168 m.",
+    "dims": [
+      0.2760400176048279,
+      0.23183824121952057,
+      0.16848261654376984
+    ],
+    "mass": 2.1364283561706543,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_103",
+    "usd_path": "assets/objects/taco/taco_103.usd",
+    "prim_path": "/taco_103",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 103 (tool-action-object interaction dataset). Dims: 0.134x0.102x0.184 m.",
+    "dims": [
+      0.1336897611618042,
+      0.10238871723413467,
+      0.18424104154109955
+    ],
+    "mass": 0.32707831263542175,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_104",
+    "usd_path": "assets/objects/taco/taco_104.usd",
+    "prim_path": "/taco_104",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 104 (tool-action-object interaction dataset). Dims: 0.265x0.182x0.253 m.",
+    "dims": [
+      0.26490363478660583,
+      0.1815391629934311,
+      0.25299230217933655
+    ],
+    "mass": 0.7764707207679749,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_105",
+    "usd_path": "assets/objects/taco/taco_105.usd",
+    "prim_path": "/taco_105",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 105 (tool-action-object interaction dataset). Dims: 0.322x0.209x0.375 m.",
+    "dims": [
+      0.32189661264419556,
+      0.2085185945034027,
+      0.37512531876564026
+    ],
+    "mass": 1.3478432893753052,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_106",
+    "usd_path": "assets/objects/taco/taco_106.usd",
+    "prim_path": "/taco_106",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 106 (tool-action-object interaction dataset). Dims: 0.128x0.092x0.059 m.",
+    "dims": [
+      0.12783992290496826,
+      0.09162981808185577,
+      0.05938145890831947
+    ],
+    "mass": 0.2999742925167084,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_107",
+    "usd_path": "assets/objects/taco/taco_107.usd",
+    "prim_path": "/taco_107",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 107 (tool-action-object interaction dataset). Dims: 0.119x0.076x0.088 m.",
+    "dims": [
+      0.11895698308944702,
+      0.07562994211912155,
+      0.087611623108387
+    ],
+    "mass": 0.2959696054458618,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_109",
+    "usd_path": "assets/objects/taco/taco_109.usd",
+    "prim_path": "/taco_109",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 109 (tool-action-object interaction dataset). Dims: 0.300x0.097x0.022 m.",
+    "dims": [
+      0.29994240403175354,
+      0.0970795601606369,
+      0.022465519607067108
+    ],
+    "mass": 0.11662200838327408,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_110",
+    "usd_path": "assets/objects/taco/taco_110.usd",
+    "prim_path": "/taco_110",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 110 (tool-action-object interaction dataset). Dims: 0.339x0.102x0.064 m.",
+    "dims": [
+      0.33873677253723145,
+      0.10164652019739151,
+      0.06406170129776001
+    ],
+    "mass": 0.44699162244796753,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_111",
+    "usd_path": "assets/objects/taco/taco_111.usd",
+    "prim_path": "/taco_111",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 111 (tool-action-object interaction dataset). Dims: 0.247x0.176x0.050 m.",
+    "dims": [
+      0.24682581424713135,
+      0.1760719269514084,
+      0.05016572028398514
+    ],
+    "mass": 0.4000113308429718,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_113",
+    "usd_path": "assets/objects/taco/taco_113.usd",
+    "prim_path": "/taco_113",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 113 (tool-action-object interaction dataset). Dims: 0.309x0.060x0.021 m.",
+    "dims": [
+      0.30867522954940796,
+      0.05985860154032707,
+      0.020719019696116447
+    ],
+    "mass": 0.22142969071865082,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_114",
+    "usd_path": "assets/objects/taco/taco_114.usd",
+    "prim_path": "/taco_114",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 114 (tool-action-object interaction dataset). Dims: 0.180x0.134x0.048 m.",
+    "dims": [
+      0.17989400029182434,
+      0.13411323726177216,
+      0.04811583831906319
+    ],
+    "mass": 0.22894561290740967,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_115",
+    "usd_path": "assets/objects/taco/taco_115.usd",
+    "prim_path": "/taco_115",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 115 (tool-action-object interaction dataset). Dims: 0.225x0.203x0.048 m.",
+    "dims": [
+      0.2253708392381668,
+      0.20254352688789368,
+      0.048129498958587646
+    ],
+    "mass": 0.4448615610599518,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_116",
+    "usd_path": "assets/objects/taco/taco_116.usd",
+    "prim_path": "/taco_116",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 116 (tool-action-object interaction dataset). Dims: 0.192x0.193x0.074 m.",
+    "dims": [
+      0.19220684468746185,
+      0.1926324963569641,
+      0.07396654039621353
+    ],
+    "mass": 0.6462752223014832,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_117",
+    "usd_path": "assets/objects/taco/taco_117.usd",
+    "prim_path": "/taco_117",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 117 (tool-action-object interaction dataset). Dims: 0.275x0.089x0.069 m.",
+    "dims": [
+      0.2746082544326782,
+      0.08913619816303253,
+      0.06919565796852112
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_118",
+    "usd_path": "assets/objects/taco/taco_118.usd",
+    "prim_path": "/taco_118",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 118 (tool-action-object interaction dataset). Dims: 0.214x0.211x0.094 m.",
+    "dims": [
+      0.21394453942775726,
+      0.21062515676021576,
+      0.0943678766489029
+    ],
+    "mass": 1.7009660005569458,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_120",
+    "usd_path": "assets/objects/taco/taco_120.usd",
+    "prim_path": "/taco_120",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 120 (tool-action-object interaction dataset). Dims: 0.289x0.050x0.020 m.",
+    "dims": [
+      0.28889620304107666,
+      0.050048861652612686,
+      0.019811440259218216
+    ],
+    "mass": 0.06253473460674286,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_121",
+    "usd_path": "assets/objects/taco/taco_121.usd",
+    "prim_path": "/taco_121",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 121 (tool-action-object interaction dataset). Dims: 0.273x0.199x0.102 m.",
+    "dims": [
+      0.27297472953796387,
+      0.1991962343454361,
+      0.10234890133142471
+    ],
+    "mass": 2.2261106967926025,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_122",
+    "usd_path": "assets/objects/taco/taco_122.usd",
+    "prim_path": "/taco_122",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 122 (tool-action-object interaction dataset). Dims: 0.299x0.068x0.024 m.",
+    "dims": [
+      0.29932117462158203,
+      0.06788937747478485,
+      0.023769740015268326
+    ],
+    "mass": 0.09233473241329193,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_123",
+    "usd_path": "assets/objects/taco/taco_123.usd",
+    "prim_path": "/taco_123",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 123 (tool-action-object interaction dataset). Dims: 0.139x0.057x0.029 m.",
+    "dims": [
+      0.13911132514476776,
+      0.05688896030187607,
+      0.02878452092409134
+    ],
+    "mass": 0.19252601265907288,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_124",
+    "usd_path": "assets/objects/taco/taco_124.usd",
+    "prim_path": "/taco_124",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 124 (tool-action-object interaction dataset). Dims: 0.142x0.059x0.024 m.",
+    "dims": [
+      0.14248760789632797,
+      0.0591499712318182,
+      0.02446109987795353
+    ],
+    "mass": 0.16416263580322266,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_125",
+    "usd_path": "assets/objects/taco/taco_125.usd",
+    "prim_path": "/taco_125",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 125 (tool-action-object interaction dataset). Dims: 0.306x0.170x0.018 m.",
+    "dims": [
+      0.3057008683681488,
+      0.16990649700164795,
+      0.018434779718518257
+    ],
+    "mass": 0.4013225734233856,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_126",
+    "usd_path": "assets/objects/taco/taco_126.usd",
+    "prim_path": "/taco_126",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 126 (tool-action-object interaction dataset). Dims: 0.117x0.137x0.036 m.",
+    "dims": [
+      0.1172393187880516,
+      0.13706672191619873,
+      0.036078620702028275
+    ],
+    "mass": 0.1328357607126236,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_127",
+    "usd_path": "assets/objects/taco/taco_127.usd",
+    "prim_path": "/taco_127",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 127 (tool-action-object interaction dataset). Dims: 0.286x0.081x0.033 m.",
+    "dims": [
+      0.28589123487472534,
+      0.08113688230514526,
+      0.03307247906923294
+    ],
+    "mass": 0.19138075411319733,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_128",
+    "usd_path": "assets/objects/taco/taco_128.usd",
+    "prim_path": "/taco_128",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 128 (tool-action-object interaction dataset). Dims: 0.258x0.121x0.022 m.",
+    "dims": [
+      0.25766026973724365,
+      0.12060319632291794,
+      0.021719859912991524
+    ],
+    "mass": 0.06471241265535355,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_129",
+    "usd_path": "assets/objects/taco/taco_129.usd",
+    "prim_path": "/taco_129",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 129 (tool-action-object interaction dataset). Dims: 0.246x0.068x0.062 m.",
+    "dims": [
+      0.2461830973625183,
+      0.06785774230957031,
+      0.062296099960803986
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_130",
+    "usd_path": "assets/objects/taco/taco_130.usd",
+    "prim_path": "/taco_130",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 130 (tool-action-object interaction dataset). Dims: 0.359x0.075x0.086 m.",
+    "dims": [
+      0.3589097857475281,
+      0.07518123835325241,
+      0.08648540079593658
+    ],
+    "mass": 0.07203610986471176,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_131",
+    "usd_path": "assets/objects/taco/taco_131.usd",
+    "prim_path": "/taco_131",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 131 (tool-action-object interaction dataset). Dims: 0.223x0.069x0.023 m.",
+    "dims": [
+      0.223491832613945,
+      0.06942261755466461,
+      0.023404860869050026
+    ],
+    "mass": 0.05677288770675659,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_132",
+    "usd_path": "assets/objects/taco/taco_132.usd",
+    "prim_path": "/taco_132",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 132 (tool-action-object interaction dataset). Dims: 0.342x0.110x0.073 m.",
+    "dims": [
+      0.34232860803604126,
+      0.10991501808166504,
+      0.0726815015077591
+    ],
+    "mass": 1.0939162969589233,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_133",
+    "usd_path": "assets/objects/taco/taco_133.usd",
+    "prim_path": "/taco_133",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 133 (tool-action-object interaction dataset). Dims: 0.358x0.099x0.036 m.",
+    "dims": [
+      0.35794568061828613,
+      0.09899488091468811,
+      0.03579102084040642
+    ],
+    "mass": 0.09012313187122345,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_134",
+    "usd_path": "assets/objects/taco/taco_134.usd",
+    "prim_path": "/taco_134",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 134 (tool-action-object interaction dataset). Dims: 0.314x0.086x0.064 m.",
+    "dims": [
+      0.3137879967689514,
+      0.08597598224878311,
+      0.06373927742242813
+    ],
+    "mass": 0.08362928032875061,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_135",
+    "usd_path": "assets/objects/taco/taco_135.usd",
+    "prim_path": "/taco_135",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 135 (tool-action-object interaction dataset). Dims: 0.318x0.184x0.037 m.",
+    "dims": [
+      0.3177347183227539,
+      0.18407343327999115,
+      0.03683792054653168
+    ],
+    "mass": 0.2533925771713257,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_136",
+    "usd_path": "assets/objects/taco/taco_136.usd",
+    "prim_path": "/taco_136",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 136 (tool-action-object interaction dataset). Dims: 0.303x0.206x0.096 m.",
+    "dims": [
+      0.3033684194087982,
+      0.20630662143230438,
+      0.09626588225364685
+    ],
+    "mass": 2.4099936485290527,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_137",
+    "usd_path": "assets/objects/taco/taco_137.usd",
+    "prim_path": "/taco_137",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 137 (tool-action-object interaction dataset). Dims: 0.210x0.138x0.065 m.",
+    "dims": [
+      0.21025849878787994,
+      0.13844314217567444,
+      0.06511078029870987
+    ],
+    "mass": 0.7581198811531067,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_138",
+    "usd_path": "assets/objects/taco/taco_138.usd",
+    "prim_path": "/taco_138",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 138 (tool-action-object interaction dataset). Dims: 0.312x0.039x0.017 m.",
+    "dims": [
+      0.3123241364955902,
+      0.03908361867070198,
+      0.017020780593156815
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_139",
+    "usd_path": "assets/objects/taco/taco_139.usd",
+    "prim_path": "/taco_139",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 139 (tool-action-object interaction dataset). Dims: 0.338x0.131x0.032 m.",
+    "dims": [
+      0.33824440836906433,
+      0.13119074702262878,
+      0.03205154091119766
+    ],
+    "mass": 0.2514256536960602,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_140",
+    "usd_path": "assets/objects/taco/taco_140.usd",
+    "prim_path": "/taco_140",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 140 (tool-action-object interaction dataset). Dims: 0.313x0.152x0.016 m.",
+    "dims": [
+      0.31267625093460083,
+      0.15205928683280945,
+      0.015677260234951973
+    ],
+    "mass": 0.08383292704820633,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_141",
+    "usd_path": "assets/objects/taco/taco_141.usd",
+    "prim_path": "/taco_141",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 141 (tool-action-object interaction dataset). Dims: 0.124x0.139x0.035 m.",
+    "dims": [
+      0.12409240007400513,
+      0.13894927501678467,
+      0.03533202037215233
+    ],
+    "mass": 0.13200579583644867,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_142",
+    "usd_path": "assets/objects/taco/taco_142.usd",
+    "prim_path": "/taco_142",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 142 (tool-action-object interaction dataset). Dims: 0.277x0.111x0.026 m.",
+    "dims": [
+      0.2771666944026947,
+      0.11051756143569946,
+      0.026160219684243202
+    ],
+    "mass": 0.1272393763065338,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_143",
+    "usd_path": "assets/objects/taco/taco_143.usd",
+    "prim_path": "/taco_143",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 143 (tool-action-object interaction dataset). Dims: 0.351x0.181x0.173 m.",
+    "dims": [
+      0.3512532413005829,
+      0.18109922111034393,
+      0.17257185280323029
+    ],
+    "mass": 5.0,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_144",
+    "usd_path": "assets/objects/taco/taco_144.usd",
+    "prim_path": "/taco_144",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 144 (tool-action-object interaction dataset). Dims: 0.305x0.107x0.038 m.",
+    "dims": [
+      0.304957777261734,
+      0.10706020146608353,
+      0.03814370185136795
+    ],
+    "mass": 0.2809460163116455,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_145",
+    "usd_path": "assets/objects/taco/taco_145.usd",
+    "prim_path": "/taco_145",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 145 (tool-action-object interaction dataset). Dims: 0.500x0.027x0.006 m.",
+    "dims": [
+      0.5002150535583496,
+      0.02660288941115141,
+      0.006108980160206556
+    ],
+    "mass": 0.05832759290933609,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_146",
+    "usd_path": "assets/objects/taco/taco_146.usd",
+    "prim_path": "/taco_146",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 146 (tool-action-object interaction dataset). Dims: 0.170x0.137x0.066 m.",
+    "dims": [
+      0.17007727921009064,
+      0.13713018596172333,
+      0.06649138033390045
+    ],
+    "mass": 0.113284170627594,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_147",
+    "usd_path": "assets/objects/taco/taco_147.usd",
+    "prim_path": "/taco_147",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 147 (tool-action-object interaction dataset). Dims: 0.190x0.032x0.031 m.",
+    "dims": [
+      0.18978363275527954,
+      0.032457079738378525,
+      0.03106530010700226
+    ],
+    "mass": 0.05856817588210106,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_148",
+    "usd_path": "assets/objects/taco/taco_148.usd",
+    "prim_path": "/taco_148",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 148 (tool-action-object interaction dataset). Dims: 0.283x0.094x0.021 m.",
+    "dims": [
+      0.28301453590393066,
+      0.09415944665670395,
+      0.02067047916352749
+    ],
+    "mass": 0.105776347219944,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_149",
+    "usd_path": "assets/objects/taco/taco_149.usd",
+    "prim_path": "/taco_149",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 149 (tool-action-object interaction dataset). Dims: 0.168x0.320x0.056 m.",
+    "dims": [
+      0.16807346045970917,
+      0.3195650279521942,
+      0.05628525838255882
+    ],
+    "mass": 0.15873786807060242,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_150",
+    "usd_path": "assets/objects/taco/taco_150.usd",
+    "prim_path": "/taco_150",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 150 (tool-action-object interaction dataset). Dims: 0.203x0.033x0.033 m.",
+    "dims": [
+      0.20280799269676208,
+      0.03345600143074989,
+      0.033121999353170395
+    ],
+    "mass": 0.05953345075249672,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_151",
+    "usd_path": "assets/objects/taco/taco_151.usd",
+    "prim_path": "/taco_151",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 151 (tool-action-object interaction dataset). Dims: 0.304x0.033x0.032 m.",
+    "dims": [
+      0.3042055368423462,
+      0.03300898149609566,
+      0.03215759992599487
+    ],
+    "mass": 0.06233064457774162,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_153",
+    "usd_path": "assets/objects/taco/taco_153.usd",
+    "prim_path": "/taco_153",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 153 (tool-action-object interaction dataset). Dims: 0.288x0.044x0.020 m.",
+    "dims": [
+      0.28824248909950256,
+      0.044124141335487366,
+      0.020339440554380417
+    ],
+    "mass": 0.05596870556473732,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_155",
+    "usd_path": "assets/objects/taco/taco_155.usd",
+    "prim_path": "/taco_155",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 155 (tool-action-object interaction dataset). Dims: 0.119x0.096x0.068 m.",
+    "dims": [
+      0.11925952136516571,
+      0.09591802209615707,
+      0.06753470003604889
+    ],
+    "mass": 0.3090154826641083,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_157",
+    "usd_path": "assets/objects/taco/taco_157.usd",
+    "prim_path": "/taco_157",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 157 (tool-action-object interaction dataset). Dims: 0.133x0.091x0.053 m.",
+    "dims": [
+      0.13295020163059235,
+      0.09073153883218765,
+      0.05285919830203056
+    ],
+    "mass": 0.10492286086082458,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_158",
+    "usd_path": "assets/objects/taco/taco_158.usd",
+    "prim_path": "/taco_158",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 158 (tool-action-object interaction dataset). Dims: 0.231x0.101x0.020 m.",
+    "dims": [
+      0.2309563159942627,
+      0.1014796793460846,
+      0.020134780555963516
+    ],
+    "mass": 0.17402289807796478,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_159",
+    "usd_path": "assets/objects/taco/taco_159.usd",
+    "prim_path": "/taco_159",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 159 (tool-action-object interaction dataset). Dims: 0.153x0.102x0.054 m.",
+    "dims": [
+      0.15327416360378265,
+      0.10240533947944641,
+      0.053614500910043716
+    ],
+    "mass": 0.201575368642807,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_160",
+    "usd_path": "assets/objects/taco/taco_160.usd",
+    "prim_path": "/taco_160",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 160 (tool-action-object interaction dataset). Dims: 0.154x0.092x0.064 m.",
+    "dims": [
+      0.154022216796875,
+      0.09214860200881958,
+      0.06419212371110916
+    ],
+    "mass": 0.27841728925704956,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_161",
+    "usd_path": "assets/objects/taco/taco_161.usd",
+    "prim_path": "/taco_161",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 161 (tool-action-object interaction dataset). Dims: 0.250x0.130x0.023 m.",
+    "dims": [
+      0.2504739463329315,
+      0.1303441822528839,
+      0.022679200395941734
+    ],
+    "mass": 0.26813143491744995,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_162",
+    "usd_path": "assets/objects/taco/taco_162.usd",
+    "prim_path": "/taco_162",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 162 (tool-action-object interaction dataset). Dims: 0.365x0.093x0.052 m.",
+    "dims": [
+      0.3650115728378296,
+      0.0925884023308754,
+      0.05198372155427933
+    ],
+    "mass": 0.1068958044052124,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_163",
+    "usd_path": "assets/objects/taco/taco_163.usd",
+    "prim_path": "/taco_163",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 163 (tool-action-object interaction dataset). Dims: 0.341x0.100x0.072 m.",
+    "dims": [
+      0.34074872732162476,
+      0.10025566071271896,
+      0.07236768305301666
+    ],
+    "mass": 0.10615736991167068,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_164",
+    "usd_path": "assets/objects/taco/taco_164.usd",
+    "prim_path": "/taco_164",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 164 (tool-action-object interaction dataset). Dims: 0.180x0.229x0.068 m.",
+    "dims": [
+      0.1800440400838852,
+      0.2286948263645172,
+      0.06771466135978699
+    ],
+    "mass": 0.512976348400116,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_165",
+    "usd_path": "assets/objects/taco/taco_165.usd",
+    "prim_path": "/taco_165",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 165 (tool-action-object interaction dataset). Dims: 0.325x0.211x0.010 m.",
+    "dims": [
+      0.32518383860588074,
+      0.21087636053562164,
+      0.009594360366463661
+    ],
+    "mass": 0.13212011754512787,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_166",
+    "usd_path": "assets/objects/taco/taco_166.usd",
+    "prim_path": "/taco_166",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 166 (tool-action-object interaction dataset). Dims: 0.243x0.243x0.023 m.",
+    "dims": [
+      0.2426159828901291,
+      0.24325315654277802,
+      0.023246880620718002
+    ],
+    "mass": 0.27990859746932983,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_167",
+    "usd_path": "assets/objects/taco/taco_167.usd",
+    "prim_path": "/taco_167",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 167 (tool-action-object interaction dataset). Dims: 0.123x0.088x0.105 m.",
+    "dims": [
+      0.12341900169849396,
+      0.088475801050663,
+      0.10505157709121704
+    ],
+    "mass": 0.6021441221237183,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_168",
+    "usd_path": "assets/objects/taco/taco_168.usd",
+    "prim_path": "/taco_168",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 168 (tool-action-object interaction dataset). Dims: 0.131x0.115x0.163 m.",
+    "dims": [
+      0.13081248104572296,
+      0.114960677921772,
+      0.16269749402999878
+    ],
+    "mass": 0.978676974773407,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_169",
+    "usd_path": "assets/objects/taco/taco_169.usd",
+    "prim_path": "/taco_169",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 169 (tool-action-object interaction dataset). Dims: 0.293x0.090x0.070 m.",
+    "dims": [
+      0.2927577495574951,
+      0.08994455635547638,
+      0.06974005699157715
+    ],
+    "mass": 0.7345572113990784,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_170",
+    "usd_path": "assets/objects/taco/taco_170.usd",
+    "prim_path": "/taco_170",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 170 (tool-action-object interaction dataset). Dims: 0.348x0.137x0.050 m.",
+    "dims": [
+      0.34767845273017883,
+      0.13659651577472687,
+      0.050103720277547836
+    ],
+    "mass": 0.10981585830450058,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_171",
+    "usd_path": "assets/objects/taco/taco_171.usd",
+    "prim_path": "/taco_171",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 171 (tool-action-object interaction dataset). Dims: 0.144x0.084x0.056 m.",
+    "dims": [
+      0.14374417811632156,
+      0.08364754915237427,
+      0.055708859115839005
+    ],
+    "mass": 0.29418957233428955,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_172",
+    "usd_path": "assets/objects/taco/taco_172.usd",
+    "prim_path": "/taco_172",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 172 (tool-action-object interaction dataset). Dims: 0.350x0.101x0.066 m.",
+    "dims": [
+      0.3502812087535858,
+      0.10074333846569061,
+      0.06551429629325867
+    ],
+    "mass": 0.9247605800628662,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_173",
+    "usd_path": "assets/objects/taco/taco_173.usd",
+    "prim_path": "/taco_173",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 173 (tool-action-object interaction dataset). Dims: 0.365x0.098x0.045 m.",
+    "dims": [
+      0.36466872692108154,
+      0.09849324077367783,
+      0.04456532001495361
+    ],
+    "mass": 0.6402682662010193,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_174",
+    "usd_path": "assets/objects/taco/taco_174.usd",
+    "prim_path": "/taco_174",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 174 (tool-action-object interaction dataset). Dims: 0.179x0.153x0.074 m.",
+    "dims": [
+      0.179035022854805,
+      0.1527450829744339,
+      0.0740806832909584
+    ],
+    "mass": 0.24223335087299347,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_175",
+    "usd_path": "assets/objects/taco/taco_175.usd",
+    "prim_path": "/taco_175",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 175 (tool-action-object interaction dataset). Dims: 0.264x0.076x0.069 m.",
+    "dims": [
+      0.2635483741760254,
+      0.07599422335624695,
+      0.0687241181731224
+    ],
+    "mass": 0.09332524985074997,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_176",
+    "usd_path": "assets/objects/taco/taco_176.usd",
+    "prim_path": "/taco_176",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 176 (tool-action-object interaction dataset). Dims: 0.162x0.054x0.047 m.",
+    "dims": [
+      0.16199859976768494,
+      0.05363301932811737,
+      0.04735514149069786
+    ],
+    "mass": 0.32637107372283936,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_177",
+    "usd_path": "assets/objects/taco/taco_177.usd",
+    "prim_path": "/taco_177",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 177 (tool-action-object interaction dataset). Dims: 0.107x0.062x0.034 m.",
+    "dims": [
+      0.10743536055088043,
+      0.061695441603660583,
+      0.03368430957198143
+    ],
+    "mass": 0.19217956066131592,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_178",
+    "usd_path": "assets/objects/taco/taco_178.usd",
+    "prim_path": "/taco_178",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 178 (tool-action-object interaction dataset). Dims: 0.243x0.034x0.050 m.",
+    "dims": [
+      0.24343301355838776,
+      0.034194160252809525,
+      0.050028398633003235
+    ],
+    "mass": 0.07218090444803238,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_179",
+    "usd_path": "assets/objects/taco/taco_179.usd",
+    "prim_path": "/taco_179",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 179 (tool-action-object interaction dataset). Dims: 0.175x0.061x0.094 m.",
+    "dims": [
+      0.17530503869056702,
+      0.06126181036233902,
+      0.09400766342878342
+    ],
+    "mass": 0.2777113914489746,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_180",
+    "usd_path": "assets/objects/taco/taco_180.usd",
+    "prim_path": "/taco_180",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 180 (tool-action-object interaction dataset). Dims: 0.144x0.143x0.060 m.",
+    "dims": [
+      0.14444705843925476,
+      0.14297739416360855,
+      0.05990348011255264
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_181",
+    "usd_path": "assets/objects/taco/taco_181.usd",
+    "prim_path": "/taco_181",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 181 (tool-action-object interaction dataset). Dims: 0.386x0.096x0.016 m.",
+    "dims": [
+      0.38573047518730164,
+      0.0958922989666462,
+      0.015580339822918177
+    ],
+    "mass": 0.07669606059789658,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_182",
+    "usd_path": "assets/objects/taco/taco_182.usd",
+    "prim_path": "/taco_182",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 182 (tool-action-object interaction dataset). Dims: 0.211x0.076x0.011 m.",
+    "dims": [
+      0.21106866747140884,
+      0.07562711089849472,
+      0.01061988016590476
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_183",
+    "usd_path": "assets/objects/taco/taco_183.usd",
+    "prim_path": "/taco_183",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 183 (tool-action-object interaction dataset). Dims: 0.282x0.075x0.071 m.",
+    "dims": [
+      0.2815817892551422,
+      0.0754336565732956,
+      0.07102245837450027
+    ],
+    "mass": 0.09863937646150589,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_184",
+    "usd_path": "assets/objects/taco/taco_184.usd",
+    "prim_path": "/taco_184",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 184 (tool-action-object interaction dataset). Dims: 0.387x0.085x0.024 m.",
+    "dims": [
+      0.3865062892436981,
+      0.08531861007213593,
+      0.02377909980714321
+    ],
+    "mass": 0.10444886982440948,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_185",
+    "usd_path": "assets/objects/taco/taco_185.usd",
+    "prim_path": "/taco_185",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 185 (tool-action-object interaction dataset). Dims: 0.332x0.027x0.022 m.",
+    "dims": [
+      0.3316551148891449,
+      0.027282449416816235,
+      0.02200872078537941
+    ],
+    "mass": 0.10653022676706314,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_186",
+    "usd_path": "assets/objects/taco/taco_186.usd",
+    "prim_path": "/taco_186",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 186 (tool-action-object interaction dataset). Dims: 0.109x0.052x0.032 m.",
+    "dims": [
+      0.10876137763261795,
+      0.05200415849685669,
+      0.03179243952035904
+    ],
+    "mass": 0.1520918756723404,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_187",
+    "usd_path": "assets/objects/taco/taco_187.usd",
+    "prim_path": "/taco_187",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 187 (tool-action-object interaction dataset). Dims: 0.083x0.081x0.118 m.",
+    "dims": [
+      0.08282756060361862,
+      0.08103214204311371,
+      0.11816825717687607
+    ],
+    "mass": 0.31724369525909424,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_188",
+    "usd_path": "assets/objects/taco/taco_188.usd",
+    "prim_path": "/taco_188",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 188 (tool-action-object interaction dataset). Dims: 0.129x0.044x0.034 m.",
+    "dims": [
+      0.128879114985466,
+      0.044470060616731644,
+      0.033548569306731224
+    ],
+    "mass": 0.15699893236160278,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_189",
+    "usd_path": "assets/objects/taco/taco_189.usd",
+    "prim_path": "/taco_189",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 189 (tool-action-object interaction dataset). Dims: 0.175x0.174x0.070 m.",
+    "dims": [
+      0.17540864646434784,
+      0.1744895577430725,
+      0.07008784264326096
+    ],
+    "mass": 0.8580707311630249,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_190",
+    "usd_path": "assets/objects/taco/taco_190.usd",
+    "prim_path": "/taco_190",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 190 (tool-action-object interaction dataset). Dims: 0.139x0.139x0.050 m.",
+    "dims": [
+      0.13896149396896362,
+      0.13895836472511292,
+      0.04956633970141411
+    ],
+    "mass": 0.07135976850986481,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_191",
+    "usd_path": "assets/objects/taco/taco_191.usd",
+    "prim_path": "/taco_191",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 191 (tool-action-object interaction dataset). Dims: 0.203x0.203x0.078 m.",
+    "dims": [
+      0.20312080532312393,
+      0.20305988192558289,
+      0.07773210108280182
+    ],
+    "mass": 0.15139877796173096,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_192",
+    "usd_path": "assets/objects/taco/taco_192.usd",
+    "prim_path": "/taco_192",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 192 (tool-action-object interaction dataset). Dims: 0.233x0.178x0.136 m.",
+    "dims": [
+      0.23348930478096008,
+      0.1784949153661728,
+      0.13637621700763702
+    ],
+    "mass": 1.4153903722763062,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_193",
+    "usd_path": "assets/objects/taco/taco_193.usd",
+    "prim_path": "/taco_193",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 193 (tool-action-object interaction dataset). Dims: 0.148x0.147x0.104 m.",
+    "dims": [
+      0.14756737649440765,
+      0.14700378477573395,
+      0.1044255793094635
+    ],
+    "mass": 0.08421220630407333,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_194",
+    "usd_path": "assets/objects/taco/taco_194.usd",
+    "prim_path": "/taco_194",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 194 (tool-action-object interaction dataset). Dims: 0.110x0.110x0.051 m.",
+    "dims": [
+      0.10990200191736221,
+      0.10959874093532562,
+      0.05115726962685585
+    ],
+    "mass": 0.06295081228017807,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_195",
+    "usd_path": "assets/objects/taco/taco_195.usd",
+    "prim_path": "/taco_195",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 195 (tool-action-object interaction dataset). Dims: 0.183x0.198x0.082 m.",
+    "dims": [
+      0.18310153484344482,
+      0.19837568700313568,
+      0.08197756111621857
+    ],
+    "mass": 0.5462855696678162,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_196",
+    "usd_path": "assets/objects/taco/taco_196.usd",
+    "prim_path": "/taco_196",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 196 (tool-action-object interaction dataset). Dims: 0.075x0.076x0.060 m.",
+    "dims": [
+      0.07500951737165451,
+      0.07595986127853394,
+      0.05988543853163719
+    ],
+    "mass": 0.28404414653778076,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_197",
+    "usd_path": "assets/objects/taco/taco_197.usd",
+    "prim_path": "/taco_197",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 197 (tool-action-object interaction dataset). Dims: 0.217x0.100x0.093 m.",
+    "dims": [
+      0.2174108624458313,
+      0.09981276094913483,
+      0.0929698571562767
+    ],
+    "mass": 0.08028513938188553,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_198",
+    "usd_path": "assets/objects/taco/taco_198.usd",
+    "prim_path": "/taco_198",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 198 (tool-action-object interaction dataset). Dims: 0.350x0.136x0.046 m.",
+    "dims": [
+      0.34952154755592346,
+      0.1358271986246109,
+      0.045529741793870926
+    ],
+    "mass": 0.8646013140678406,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_199",
+    "usd_path": "assets/objects/taco/taco_199.usd",
+    "prim_path": "/taco_199",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 199 (tool-action-object interaction dataset). Dims: 0.191x0.132x0.182 m.",
+    "dims": [
+      0.19086891412734985,
+      0.13201014697551727,
+      0.18229244649410248
+    ],
+    "mass": 2.239711284637451,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_200",
+    "usd_path": "assets/objects/taco/taco_200.usd",
+    "prim_path": "/taco_200",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 200 (tool-action-object interaction dataset). Dims: 0.216x0.075x0.017 m.",
+    "dims": [
+      0.21563903987407684,
+      0.07527658343315125,
+      0.017099540680646896
+    ],
+    "mass": 0.07023593783378601,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_201",
+    "usd_path": "assets/objects/taco/taco_201.usd",
+    "prim_path": "/taco_201",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 201 (tool-action-object interaction dataset). Dims: 0.324x0.169x0.049 m.",
+    "dims": [
+      0.3239437937736511,
+      0.16869951784610748,
+      0.049386318773031235
+    ],
+    "mass": 0.16812962293624878,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_202",
+    "usd_path": "assets/objects/taco/taco_202.usd",
+    "prim_path": "/taco_202",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 202 (tool-action-object interaction dataset). Dims: 0.289x0.081x0.027 m.",
+    "dims": [
+      0.2892841696739197,
+      0.08082090318202972,
+      0.027035340666770935
+    ],
+    "mass": 0.0819433405995369,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_203",
+    "usd_path": "assets/objects/taco/taco_203.usd",
+    "prim_path": "/taco_203",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 203 (tool-action-object interaction dataset). Dims: 0.277x0.100x0.059 m.",
+    "dims": [
+      0.2771921455860138,
+      0.1004735603928566,
+      0.059186678379774094
+    ],
+    "mass": 0.6593509912490845,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_204",
+    "usd_path": "assets/objects/taco/taco_204.usd",
+    "prim_path": "/taco_204",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 204 (tool-action-object interaction dataset). Dims: 0.230x0.082x0.019 m.",
+    "dims": [
+      0.22997885942459106,
+      0.08175601810216904,
+      0.019393600523471832
+    ],
+    "mass": 0.06738653779029846,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_205",
+    "usd_path": "assets/objects/taco/taco_205.usd",
+    "prim_path": "/taco_205",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 205 (tool-action-object interaction dataset). Dims: 0.315x0.104x0.032 m.",
+    "dims": [
+      0.31503021717071533,
+      0.10364148020744324,
+      0.032001420855522156
+    ],
+    "mass": 0.19523189961910248,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_206",
+    "usd_path": "assets/objects/taco/taco_206.usd",
+    "prim_path": "/taco_206",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 206 (tool-action-object interaction dataset). Dims: 0.359x0.169x0.075 m.",
+    "dims": [
+      0.35861027240753174,
+      0.169124037027359,
+      0.07515235990285873
+    ],
+    "mass": 0.14974044263362885,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_207",
+    "usd_path": "assets/objects/taco/taco_207.usd",
+    "prim_path": "/taco_207",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 207 (tool-action-object interaction dataset). Dims: 0.282x0.078x0.073 m.",
+    "dims": [
+      0.28181418776512146,
+      0.07791853696107864,
+      0.07275685667991638
+    ],
+    "mass": 0.15803125500679016,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_208",
+    "usd_path": "assets/objects/taco/taco_208.usd",
+    "prim_path": "/taco_208",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 208 (tool-action-object interaction dataset). Dims: 0.388x0.104x0.015 m.",
+    "dims": [
+      0.38760262727737427,
+      0.10363095253705978,
+      0.015050690155476332
+    ],
+    "mass": 0.09263985604047775,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_209",
+    "usd_path": "assets/objects/taco/taco_209.usd",
+    "prim_path": "/taco_209",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 209 (tool-action-object interaction dataset). Dims: 0.260x0.076x0.065 m.",
+    "dims": [
+      0.2599889636039734,
+      0.07631192356348038,
+      0.06490252166986465
+    ],
+    "mass": 0.10317819565534592,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_210",
+    "usd_path": "assets/objects/taco/taco_210.usd",
+    "prim_path": "/taco_210",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 210 (tool-action-object interaction dataset). Dims: 0.274x0.076x0.071 m.",
+    "dims": [
+      0.27388444542884827,
+      0.07581902295351028,
+      0.07112833857536316
+    ],
+    "mass": 0.5908105373382568,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_211",
+    "usd_path": "assets/objects/taco/taco_211.usd",
+    "prim_path": "/taco_211",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 211 (tool-action-object interaction dataset). Dims: 0.385x0.086x0.023 m.",
+    "dims": [
+      0.3850615918636322,
+      0.08563484251499176,
+      0.023495139554142952
+    ],
+    "mass": 0.1260797530412674,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_212",
+    "usd_path": "assets/objects/taco/taco_212.usd",
+    "prim_path": "/taco_212",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 212 (tool-action-object interaction dataset). Dims: 0.305x0.077x0.018 m.",
+    "dims": [
+      0.30500760674476624,
+      0.07729440182447433,
+      0.01805097982287407
+    ],
+    "mass": 0.05503294616937637,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_213",
+    "usd_path": "assets/objects/taco/taco_213.usd",
+    "prim_path": "/taco_213",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 213 (tool-action-object interaction dataset). Dims: 0.343x0.207x0.108 m.",
+    "dims": [
+      0.3425774872303009,
+      0.20724736154079437,
+      0.10800439864397049
+    ],
+    "mass": 0.283231258392334,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_214",
+    "usd_path": "assets/objects/taco/taco_214.usd",
+    "prim_path": "/taco_214",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 214 (tool-action-object interaction dataset). Dims: 0.329x0.172x0.086 m.",
+    "dims": [
+      0.32850220799446106,
+      0.17177143692970276,
+      0.0862639769911766
+    ],
+    "mass": 1.9470572471618652,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_215",
+    "usd_path": "assets/objects/taco/taco_215.usd",
+    "prim_path": "/taco_215",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 215 (tool-action-object interaction dataset). Dims: 0.213x0.152x0.240 m.",
+    "dims": [
+      0.21293137967586517,
+      0.15188242495059967,
+      0.23991431295871735
+    ],
+    "mass": 3.9527342319488525,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_216",
+    "usd_path": "assets/objects/taco/taco_216.usd",
+    "prim_path": "/taco_216",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 216 (tool-action-object interaction dataset). Dims: 0.171x0.114x0.173 m.",
+    "dims": [
+      0.17139862477779388,
+      0.11440878361463547,
+      0.17313988506793976
+    ],
+    "mass": 1.6216744184494019,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_217",
+    "usd_path": "assets/objects/taco/taco_217.usd",
+    "prim_path": "/taco_217",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 217 (tool-action-object interaction dataset). Dims: 0.274x0.089x0.072 m.",
+    "dims": [
+      0.27394020557403564,
+      0.0885060578584671,
+      0.07192575931549072
+    ],
+    "mass": 0.07979683578014374,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
+  },
+  {
+    "name": "taco_218",
+    "usd_path": "assets/objects/taco/taco_218.usd",
+    "prim_path": "/taco_218",
+    "position": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "quat_wxyz": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "payload": [],
+    "rigid_body": true,
+    "static_body": false,
+    "class": "object",
+    "description": "TACO dataset object 218 (tool-action-object interaction dataset). Dims: 0.205x0.068x0.052 m.",
+    "dims": [
+      0.20542223751544952,
+      0.0679323822259903,
+      0.05206378176808357
+    ],
+    "mass": 0.05000000074505806,
+    "density": 0.0,
+    "dynamic_friction": 2.0,
+    "static_friction": 2.0,
+    "restitution": 0.10000000149011612,
+    "dataset": "taco"
   }
 ]
