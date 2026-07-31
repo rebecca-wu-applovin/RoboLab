@@ -15,11 +15,27 @@ cd "$(dirname "$0")"
 
 ISAAC_EXTRA="${ISAAC_EXTRA:-isaac50}"
 
-# ffmpeg is a system dep for video recording. Best-effort; needs root + apt.
-if ! command -v ffmpeg >/dev/null 2>&1 && command -v apt-get >/dev/null 2>&1; then
-  echo ">> Installing system ffmpeg"
-  apt-get update -qq && apt-get install -y -qq ffmpeg \
-    || echo "!! ffmpeg install skipped (need root?) — install it manually"
+# System deps (best-effort; needs root + apt): curl to bootstrap uv, ffmpeg for
+# video recording.
+need=""
+command -v curl   >/dev/null 2>&1 || need="$need curl"
+command -v ffmpeg >/dev/null 2>&1 || need="$need ffmpeg"
+if [ -n "$need" ] && command -v apt-get >/dev/null 2>&1; then
+  echo ">> Installing system deps:$need"
+  apt-get update -qq && apt-get install -y -qq $need \
+    || echo "!! apt install skipped (need root?) — install$need manually"
+fi
+
+# Bootstrap uv if it isn't already available.
+if ! command -v uv >/dev/null 2>&1; then
+  echo ">> Installing uv (astral.sh)"
+  curl -LsSf https://astral.sh/uv/install.sh | sh
+fi
+# uv installs to ~/.local/bin (or ~/.cargo/bin on older versions) — put it on PATH.
+export PATH="$HOME/.local/bin:$HOME/.cargo/bin:$PATH"
+if ! command -v uv >/dev/null 2>&1; then
+  echo "!! uv not on PATH after install; add \$HOME/.local/bin to PATH and re-run" >&2
+  exit 1
 fi
 
 echo ">> uv sync --extra ${ISAAC_EXTRA}  (Python pinned to $(cat .python-version))"
