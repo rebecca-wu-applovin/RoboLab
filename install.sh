@@ -18,8 +18,9 @@ ISAAC_EXTRA="${ISAAC_EXTRA:-isaac50}"
 # System deps (best-effort; needs root + apt): curl to bootstrap uv, ffmpeg for
 # video recording.
 need=""
-command -v curl   >/dev/null 2>&1 || need="$need curl"
-command -v ffmpeg >/dev/null 2>&1 || need="$need ffmpeg"
+command -v curl    >/dev/null 2>&1 || need="$need curl"
+command -v ffmpeg  >/dev/null 2>&1 || need="$need ffmpeg"
+command -v git-lfs >/dev/null 2>&1 || need="$need git-lfs"
 if [ -n "$need" ] && command -v apt-get >/dev/null 2>&1; then
   echo ">> Installing system deps:$need"
   apt-get update -qq && apt-get install -y -qq $need \
@@ -40,6 +41,21 @@ fi
 
 echo ">> uv sync --extra ${ISAAC_EXTRA}  (Python pinned to $(cat .python-version))"
 uv sync --extra "${ISAAC_EXTRA}"
+
+# USD scenes/objects/meshes are git-LFS; a bare clone only has pointers. Pull the
+# real content so assets actually load. Everything is ~6.4 GB — narrow it with
+# ROBOLAB_LFS_INCLUDE="assets/objects/taco/**,assets/fixtures/**" for a subset, or
+# set ROBOLAB_SKIP_LFS=1 to skip (e.g. when assets are mounted separately).
+if [ "${ROBOLAB_SKIP_LFS:-0}" != "1" ]; then
+  git lfs install --local >/dev/null 2>&1 || true
+  if [ -n "${ROBOLAB_LFS_INCLUDE:-}" ]; then
+    echo ">> git lfs pull --include=\"${ROBOLAB_LFS_INCLUDE}\""
+    git lfs pull --include="${ROBOLAB_LFS_INCLUDE}"
+  else
+    echo ">> git lfs pull  (all assets ~6.4 GB; ROBOLAB_SKIP_LFS=1 to skip)"
+    git lfs pull
+  fi
+fi
 
 cat <<'EOF'
 
